@@ -1,0 +1,96 @@
+body {
+  background-color: #2f274c;
+  text-align: center;
+  font-family: "Georgia", serif;
+}
+
+header h1 {
+  background-color: #2f274c;
+  text-align: center;
+  font-size: 3rem;
+  color: #d1b3ff;
+  text-shadow: 0 0 10px #9b59b6;
+}
+
+header h2 {
+  background-color: #2f274c;
+  text-align: center;
+  font-size: 1em;
+  color: #d1b3ff;
+  text-shadow: 0 0 10px #9b59b6;
+}
+
+nav {
+  text-align: center;
+  margin-bottom: 2px;
+}
+
+nav a {
+  color: #c29fff;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: bold;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 7px;
+}
+
+.new {
+  background-color: #2f274c;
+  text-align: center;
+  font-size: 3rem;
+  color: white;
+  text-shadow: 0 0 10px #9b59b6;
+}
+
+main h2 {
+  background-color: #2f274c;
+  text-align: center;
+  font-size: 3rem;
+  color: #d1b3ff;
+  text-shadow: 0 0 10px #9b59b6;
+}
+
+main p {
+  background-color: #5c2d91;
+  text-align: center;
+  font-size: 2em;
+  color: #b39ddb;
+  text-shadow: 0 0 10px #9b59b6;
+  border: 1px solid white;
+  border-radius: 10px
+}
+
+.bilas:hover {
+  color: white;
+  background-color: #5c2d91;
+  transition: transform 0.3s ease-in;
+}
+
+.zxc {
+  color: orange;
+}
+
+.cxz {
+  color: red;
+}
+
+.pl {
+  color: yellow;
+}
+
+.power {
+  color: wheat;
+}
+
+.story {
+  color: yellow;
+}
+
+footer {
+  background-color: #2f274a;
+  text-align: center;
+  font-size: 23px;
+  color: #d1b3ff;
+  text-shadow: 0 0 10px #9b59b6;
+}
